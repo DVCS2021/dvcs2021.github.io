@@ -9,11 +9,11 @@ author: Deutsche Vereinigung für Chinastudien 德語地區漢學協會
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+  Über die Tagung: "aboutme"
+  Nutzbares:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Mehr zu DVCS: "http://www.dvcs.eu/"
 
 # --- Logo --- #
 
