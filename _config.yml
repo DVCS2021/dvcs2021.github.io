@@ -11,15 +11,15 @@ author: Deutsche Vereinigung für Chinastudien 德語地區漢學協會
 navbar-links:
   Über die Tagung: "aboutme"
   Nutzbares:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Wichtige Orte der Tagung: "https://beautifuljekyll.com"
+    - Was tun und sehen in Freiburg: "https://www.markdowntutorial.com/"
   Mehr zu DVCS: "http://www.dvcs.eu/"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: 
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
