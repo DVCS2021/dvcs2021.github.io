@@ -1,7 +1,7 @@
 # --- Required options --- #
 
 # Name of website
-title: DVCS 2021
+title: DVCS XXXII. Jahrestagung (Freiburg, 19.11-21.11.2021)
 
 # Your name to show in the footer
 author: Deutsche Vereinigung für Chinastudien 德語地區漢學協會
@@ -9,11 +9,11 @@ author: Deutsche Vereinigung für Chinastudien 德語地區漢學協會
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Über die Tagung: "aboutme"
+  Über die Tagung: "about"
   Nutzbares:
-    - Wichtige Orte der Tagung: "https://beautifuljekyll.com"
-    - Was tun und sehen in Freiburg: "https://www.markdowntutorial.com/"
-  Mehr zu DVCS: "http://www.dvcs.eu/"
+    - Wichtige Orte der Tagung: "locations"
+    - Drei Tage in Freiburg: "freiburg"
+  Mehr zur DVCS: "http://www.dvcs.eu/"
 
 # --- Logo --- #
 
