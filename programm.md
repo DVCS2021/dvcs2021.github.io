@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Programm
-subtitle: Der Programm der DVCS XXXII. Jahrestagung 2021
+title: Programm und Abstracts
+subtitle: Details zu den Sitzungen der DVCS XXXII. Jahrestagung 2021
 ---
 
-Hier kommt der Programm der Tagung (vsl. in Oktober).
+Hier kommt der Programm der Tagung wie auch die Abstracts der Präsentationen (vsl. in Oktober).
