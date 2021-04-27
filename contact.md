@@ -10,6 +10,8 @@ Die Tagungssprache ist Deutsch, die Vorträge werden in deutscher oder englische
 
 Anmeldungen für eine Teilnahme ohne Vortrag erbitten wir **bis zum 1. November 2021** an [DVCS2021@sinologie.uni-freiburg.de](mailto:DVCS2021@sinologie.uni-freiburg.de).
 
+**Dissertationsvorhaben:** Jüngst abgeschlossene Dissertationen oder bereits weit gediehene Dissertationsprojekte können im Rahmen eines separaten Präsentationsfensters, auch ohne direkten Bezug zum Tagungsthema, vorgestellt werden.
+
 Für Mitglieder der DVCS und Studierende bis zum Master oder gleichwertigem Abschluss ist die Teilnahme kostenfrei. Nichtmitglieder zahlen eine **Teilnahmegebühr in Höhe von 30 Euro**.
 
 Am Abend des **19. November** ist eine öffentliche Podiumsdiskussion vorgesehen.
