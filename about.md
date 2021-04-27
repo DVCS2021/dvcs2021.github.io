@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Über die Tagung
+subtitle: Alles über die Jahrestagung der Deutschen Vereinigung für Chinastudien e.V. in Freiburg, 19.-21. November 2021
 ---
 
 My name is Inigo Montoya. I have the following qualities:
