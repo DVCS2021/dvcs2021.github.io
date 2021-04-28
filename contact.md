@@ -20,7 +20,12 @@ Die Mitgliederversammlung der DVCS wird voraussichtlich am Abend des **20. Novem
 
 ### Kontakt
 
-DVCS 2021, Institut für Sinologie an der Albert-Ludwigs-Universität Freiburg, Werthmannstr. 12, 79098 Freiburg, Tel. +49 761 203-67750, E-Mail: [DVCS2021@sinologie.uni-freiburg.de](mailto:DVCS2021@sinologie.uni-freiburg.de).
+DVCS 2021
+Institut für Sinologie
+Albert-Ludwigs-Universität Freiburg
+Werthmannstr. 12, 79098 Freiburg
+Tel. +49 761 203-67750
+E-Mail: [DVCS2021@sinologie.uni-freiburg.de](mailto:DVCS2021@sinologie.uni-freiburg.de).
 
 ### Organisationskommittee
 
