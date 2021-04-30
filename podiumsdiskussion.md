@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Podiumsdiskussion
+title: "Podiumsdiskussion"
 subtitle: "Details zu der öffentlichen Podiumsdiskussion «Sinologie Heute: Aufgaben und Herausforderungen»"
 ---
 
