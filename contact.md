@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Organisation und Kontakt
+title: "Organisation und Kontakt"
 subtitle:
 ---
 

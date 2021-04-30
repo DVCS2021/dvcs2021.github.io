@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Call for Papers
-subtitle: Für die DVCS XXXII. Jahrestagung 2021 (Freiburg, 19.11-21.11.2021)
+title: "Call for Papers"
+subtitle: "Für die DVCS XXXII. Jahrestagung 2021 (Freiburg, 19.11-21.11.2021)"
 ---
 
 ## Wissensasymmetrien: China als Akteur und Objekt (globaler) Debatten
