@@ -11,14 +11,11 @@ author: Deutsche Vereinigung für Chinastudien 德語地區漢學協會
 navbar-links:
   Über die Tagung:
     - Call for Papers: "cfp"
-    - Programm und Abstracts: "programm"
-    - Wichtige Orte: "locations"
-    - Podiumsdiskussion: "podiumsdiskussion"
     - Organisation und Kontakt: "contact"
   Zum Tagungsort:
-    - Institut für Sinologie der Uni Freiburg: "https://www.sinologie.uni-freiburg.de/"
+    - Institut für Sinologie der Universität Freiburg: "https://www.sinologie.uni-freiburg.de/"
     - UB Freiburg: "https://katalog.ub.uni-freiburg.de/opac/"
-    - Freiburg Sehen und Geniesen: "https://visit.freiburg.de/freiburg-fuehlen/top-10-sehenswuerdigkeiten"
+    - Freiburg Sehen und Genießen: "https://visit.freiburg.de/freiburg-fuehlen/top-10-sehenswuerdigkeiten"
   Mehr zur DVCS: "http://www.dvcs.eu/"
 
 # --- Logo --- #

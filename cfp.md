@@ -1,12 +1,14 @@
 ---
 layout: page
 title: "Call for Papers"
-subtitle: "Für die DVCS XXXII. Jahrestagung 2021 (Freiburg, 19.11-21.11.2021)"
+subtitle: "Für die DVCS XXXII. Jahrestagung 2021 (Freiburg, 19.-21.11.2021)"
 ---
 
 ## Wissensasymmetrien: China als Akteur und Objekt (globaler) Debatten
 #### Knowledge Asymmetries: China as Agent and Object in (Global) Debates
 #### 知识的偏位：全球辩论中作为主动者与客体的中国
+
+[Als PDF herunterladen](assets/img/CfP_DVCS 2021.pdf)
 
 Vor dem Hintergrund des machtpolitischen Aufstiegs der Volksrepublik ist das Interesse an, aber auch die Furcht vor China in der deutschsprachigen und globalen Öffentlichkeit massiv gewachsen. Gleichzeitig wird die politische Forderung nach „Chinakompetenz“ lauter, ohne dass die sinologischen Institute hiervon bislang unmittelbar profitieren. Wir nehmen diese Diskussionen zum Anlass, uns im Rahmen der diesjährigen DVCS-Tagung mit unterschiedlichen Arten und Aspekten von Wissensasymmetrien zu beschäftigen. Der Fokus richtet sich dabei auf China als Forschungsgegenstand aber zunehmend auch als Akteur politischer und intellektueller Debatten:
 
