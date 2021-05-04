@@ -14,7 +14,7 @@ Anmeldungen für eine Teilnahme ohne Vortrag erbitten wir **bis zum 1. November 
 
 Für Mitglieder der DVCS und Studierende bis zum Master oder gleichwertigem Abschluss ist die Teilnahme kostenfrei. Nichtmitglieder zahlen eine **Teilnahmegebühr in Höhe von 30 Euro**.
 
-Am Abend des **19. November** ist eine öffentliche Podiumsdiskussion vorgesehen.
+Am Abend des **19. November** ist eine öffentliche Podiumsdiskussion mit eingeladenen Expertinnen und Experten vorgesehen.
 
 Die Mitgliederversammlung der DVCS wird voraussichtlich am Abend des **20. November** stattfinden.
 
