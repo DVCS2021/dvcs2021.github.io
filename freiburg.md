@@ -11,8 +11,8 @@ subtitle:
 - [Black Forest Hostel](http://www.booking.com/Share-19tztx) (30-60 EUR/Nacht)
 
 #### Hotels
-- [Motel One Freiburg](http://www.booking.com/Share-3wyV6u) (80-90 EUR/Nacht)
 - [Hotel Alleehaus](http://www.booking.com/Share-VsUACT) (70-140 EUR/Nacht)
+- [Motel One Freiburg](http://www.booking.com/Share-3wyV6u) (80-90 EUR/Nacht)
 - [IntercityHotel Freiburg](http://www.booking.com/Share-pVDSYf) (85-130 EUR/Nacht)
 - [Mercure Hotel Freiburg am Münster](http://www.booking.com/Share-yjU1v6) (100-130 EUR/Nacht)
 - [Novotel Freiburg am Konzerthaus](http://www.booking.com/Share-9W8cZB) (80-150 EUR/Nacht)
