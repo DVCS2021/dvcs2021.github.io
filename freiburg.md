@@ -18,7 +18,7 @@ subtitle:
 - [Novotel Freiburg am Konzerthaus](http://www.booking.com/Share-9W8cZB) (80-150 EUR/Nacht)
 
 #### Mietwohnungen
-- [City Apartments Freiburg](City Apartments Freiburg) (80-90 EUR/Nacht)
+- [City Apartments Freiburg](http://www.booking.com/Share-GktwI0) (80-90 EUR/Nacht)
 - [Freiburg Apartments Friedrichring](http://www.booking.com/Share-dNLsfr4) (130-160 EUR/Nacht)
 
 ## Empfohlene Läden:
