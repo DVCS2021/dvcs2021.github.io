@@ -11,6 +11,7 @@ author: Deutsche Vereinigung für Chinastudien 德語地區漢學協會
 navbar-links:
   Über die Tagung:
     - Call for Papers: "cfp"
+    - Programm: "programm"
     - Organisation und Kontakt: "contact"
   Zum Tagungsort:
     - Institut für Sinologie der Universität Freiburg: "https://www.sinologie.uni-freiburg.de/"
@@ -104,6 +105,7 @@ hover-col: "#c84b6e"
 footer-col: "#EAEAEA"
 footer-text-col: "#0055a6"
 footer-link-col: "#00376d"
+border-col: "#00376d"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
