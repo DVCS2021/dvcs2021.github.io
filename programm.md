@@ -10,7 +10,7 @@ Alle Veranstaltungen finden in der [Aula im Kollegiengebäude 1, Raum 1115, 1. O
 
 Registrierung: [dvcs2021@sinologie.uni-freiburg.de](mailto:dvcs2021@sinologie.uni-freiburg.de)
 
-[Programm als PDF herunterladen](assets/img/CfP_DVCS2021.pdf)
+[Programm als PDF herunterladen](assets/img/DVCSProgrammFinal_2021_10_06.pdf)
 
 ## FREITAG, 19.11.2021
 
