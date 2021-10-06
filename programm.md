@@ -30,7 +30,7 @@ Discussant: Damian Mandzunowski (Freiburg)
 
 **Tee und Kaffee**
 
-**11:15-12:45 Panel 2: Theater und Kino im Spannungsfeld des Wissenstransfers**
+**11:15-12:45 Panel 2: Theater und Kino im Spannungsfeld von Wissenstransfer**
 
 - Anna Stecher (München): *Theater als Infrastruktur für Wissenstransfer. Mehrstimmige Dramaturgien im China der Gegenwart*
 
