@@ -14,8 +14,8 @@ Vor dem Hintergrund des machtpolitischen Aufstiegs der Volksrepublik ist das Int
 
 - Welche Akteure ringen um Diskurshoheit?
 - Welche Machtstrategien werden oder wurden mit bewusst aufrechterhaltenen Wissensasymmetrien verfolgt?
-- Welche thematischen und/oder machtpolitischen Asymmetrien existieren und existierten im Sprechen und Schreiben aus und über China?
-- Wie prägen und prägten Selbst- und Fremdwahrnehmung, was überhaupt als relevantes Wissen gilt?
+- Welche thematischen und/oder machtpolitischen Asymmetrien existier(t)en im Sprechen und Schreiben aus und über China?
+- Wie präg(t)en Selbst- und Fremdwahrnehmung, was überhaupt als relevantes Wissen gilt?
 
 Wissensasymmetrien zeichnen dabei nicht nur den gegenwärtigen China-Diskurs hierzulande aus. Sie finden sich gleichermaßen in innerchinesischen Diskursen, sowohl in der Gegenwart als auch in der Vergangenheit. Auch im Kaiserreich spielten politische Aspekte in Geschichtsschreibung und öffentlichem Diskurs eine maßgebliche Rolle bei der Bestimmung des Sagbaren. Daher laden wir zu Beiträgen ein, die sich aus unterschiedlichen Perspektiven mit Wissensasymmetrien im gegenwärtigen und historischen China und seiner Verflechtung mit der Welt beschäftigen. Zur wissenschaftlichen Auseinandersetzung bieten sich Institutionen und Akteure an, die für die Produktion, Verbreitung, aber auch für die Beschränkung von Wissen von Bedeutung sind oder waren. Auch die Rollen von Experten und Laien, sowie die Zuordnung zu diesen Zuschreibungen eignen sich hierfür; ferner auch Medien und deren Akteure; sowie die Funktionsweisen des politischen Systems, die in unterschiedlichen Epochen auf unterschiedliche Weise Informationsflüsse zwischen Regierung und Bevölkerung beeinflusst haben.
 

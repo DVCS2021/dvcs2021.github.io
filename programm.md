@@ -48,7 +48,7 @@ Discussant: Rüdiger Breuer (Bochum)
 
 - Julia Lange (München): *China im Zerrspiegel. Der Zweite Sino-Japanische Krieg und das Chinabild der spanischen Bürgerkriegspresse 1937-1939*
 
-- Shan Diao (Göttingen): *Die Rezeption des Vitalismus in China und der Rolle der Wissenschaft für ein gutes Leben am Anfang des 20. Jahrhunderts*
+- Diao Shan (Göttingen): *Die Rezeption des Vitalismus in China und der Rolle der Wissenschaft für ein gutes Leben am Anfang des 20. Jahrhunderts*
 
 - Tabea Mühlbach (Freiburg): *„Transitional Justice mit taiwanischen Besonderheiten“. Eine kritische Betrachtung der Vergangenheitsbewältigungsdiskurse in Taiwan seit 2005*
 
@@ -64,13 +64,13 @@ Discussant: Christine Moll-Murata (Bochum)
 
 - Eve Y. Lin (Freiburg): *Regional Developments of China’s Bookstores: Asymmetrical Cultural Knowledge Reflected and Challenged*
 
-- Lara Y. Yang (Freiburg): *Dust Hunters in the Confucius-dot-com Era: Identity Ecology in Second-hand Book-reading Culture in the Time of the Internet in China*
+- Lara Yuyu Yang (Freiburg): *Dust Hunters in the Confucius-dot-com Era: Identity Ecology in Second-hand Book-reading Culture in the Time of the Internet in China*
 
 Discussant: Barbara Mittler (Heidelberg)
 
 **Pause**
 
-**18:30-20:00 PODIUMSDISKUSSION: „Professionelle „China-Versteher“ zwischen allen Stühlen? Die Sinologie im Spannungsfeld von Politik, Moral und öffentlicher Erwartungshaltung“ —**
+**18:30-20:00 PODIUMSDISKUSSION: Professionelle „China-Versteher“ zwischen allen Stühlen? Die Sinologie im Spannungsfeld von Politik, Moral und öffentlicher Erwartungshaltung —**
 
 mit Marc Matten (Erlangen-Nürnberg), Maximilian Mayer (Bonn), Barbara Mittler (Heidelberg) und Marina Rudyak (Heidelberg):
 
