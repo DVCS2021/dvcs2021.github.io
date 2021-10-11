@@ -10,7 +10,7 @@ Alle Veranstaltungen finden in der [Aula im Kollegiengebäude 1, Raum 1115, 1. O
 
 Registrierung: [dvcs2021@sinologie.uni-freiburg.de](mailto:dvcs2021@sinologie.uni-freiburg.de)
 
-[Programm als PDF herunterladen](assets/img/DVCSProgrammFinal_2021_10_06.pdf)
+[Programm als PDF herunterladen](assets/img/DVCSProgrammFinal_2021_10_11.pdf)
 
 ## FREITAG, 19.11.2021
 
@@ -30,7 +30,7 @@ Discussant: Damian Mandzunowski (Freiburg)
 
 **Tee und Kaffee**
 
-**11:15-12:45 Panel 2: Theater und Kino im Spannungsfeld von Wissenstransfer**
+**11:15-12:45 Panel 2: Wissenstransfer in/durch Film und Theater**
 
 - Anna Stecher (München): *Theater als Infrastruktur für Wissenstransfer. Mehrstimmige Dramaturgien im China der Gegenwart*
 
@@ -132,7 +132,7 @@ Discussant: Dayton Lekner (Freiburg)
 
 Discussant: Roland Altenburger (Würzburg)
 
-**18:00-19:30 Im Anschluss: Mitgliederversammlung der DVCS**
+**18:00-20:00 Im Anschluss: Mitgliederversammlung der DVCS**
 
 ## SONNTAG, 21.11.2021
 
