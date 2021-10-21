@@ -12,6 +12,8 @@ Registrierung: [dvcs2021@sinologie.uni-freiburg.de](mailto:dvcs2021@sinologie.un
 
 [Programm als PDF herunterladen](assets/img/DVCSProgrammFinal_2021_10_11.pdf)
 
+Poster zum Ausdruck herunterladen [als JPG](assets/img/dvcs2021_poster.jpg) oder [als PNG](assets/img/dvcs2021_poster.png),
+
 ## FREITAG, 19.11.2021
 
 **Ab 8:30 Registrierung der Teilnehmer:innen**
