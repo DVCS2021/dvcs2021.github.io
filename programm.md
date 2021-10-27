@@ -10,7 +10,7 @@ Alle Veranstaltungen finden in der [Aula im Kollegiengebäude 1, Raum 1115, 1. O
 
 Registrierung: [dvcs2021@sinologie.uni-freiburg.de](mailto:dvcs2021@sinologie.uni-freiburg.de)
 
-[Programm als PDF herunterladen](assets/img/DVCSProgrammFinal_2021_10_11.pdf)
+[Programm als PDF herunterladen](assets/img/DVCSProgrammFinal_2021_10_27.pdf)
 
 Poster herunterladen [als JPG](assets/img/dvcs2021_poster.jpg) oder [als PNG](assets/img/dvcs2021_poster.png)
 
@@ -118,7 +118,7 @@ Moderation: Daniel Leese (Freiburg)
 
 - Marina Rudyak (Heidelberg): *Foreign Aid meets “Xiplomacy”: International Development Cooperation with Chinese Characteristics*
 
-Discussant: Dayton Lekner (Freiburg)
+Discussant: Amanda Shuman (Freiburg)
 
 **Tee und Kaffee**
 
