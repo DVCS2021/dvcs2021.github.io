@@ -8,6 +8,8 @@ subtitle: "Die Panels und Sitzungen der XXXII. Jahrestagung der DVCS"
 
 Alle Veranstaltungen finden in der [Aula im Kollegiengebäude 1, Raum 1115, 1. OG](https://goo.gl/maps/mS5HyPcZSFzYew7U7) statt. Die Tagungssprache ist Deutsch, die Vorträge werden in deutscher oder englischer Sprache gehalten.
 
+Für Mitglieder der DVCS und Studierende bis zum Master oder gleichwertigem Abschluss ist die Teilnahme kostenfrei. Nichtmitglieder zahlen eine **Teilnahmegebühr in Höhe von 30 Euro**.
+
 Registrierung: [dvcs2021@sinologie.uni-freiburg.de](mailto:dvcs2021@sinologie.uni-freiburg.de)
 
 [Programm als PDF herunterladen](assets/img/DVCSProgrammFinal_2021_10_27.pdf)

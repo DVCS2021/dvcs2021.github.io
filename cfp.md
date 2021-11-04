@@ -32,7 +32,7 @@ Die Entscheidung über die Annahme von Vorträgen erfolgt bis **zum 31. Juli 202
 
 Die Tagungssprache ist Deutsch, die Vorträge werden in deutscher oder englischer Sprache gehalten. Vorgesehen ist die Veröffentlichung ausgewählter Beiträge zum Tagungsthema in Form des [Jahrbuchs der DVCS](http://www.dvcs.eu/publikationen.html).
 
-Anmeldungen für eine Teilnahme ohne Vortrag erbitten wir **bis zum 1. November 2021** an [DVCS2021@sinologie.uni-freiburg.de](mailto:DVCS2021@sinologie.uni-freiburg.de).
+Anmeldungen für eine Teilnahme ohne Vortrag erbitten wir **bis zum 9. November 2021** an [DVCS2021@sinologie.uni-freiburg.de](mailto:DVCS2021@sinologie.uni-freiburg.de).
 
 **Dissertationsvorhaben:** Jüngst abgeschlossene Dissertationen oder bereits weit gediehene Dissertationsprojekte können im Rahmen eines separaten Präsentationsfensters, auch ohne direkten Bezug zum Tagungsthema, vorgestellt werden.
 
