@@ -8,7 +8,7 @@ subtitle: "Die Panels und Sitzungen der XXXII. Jahrestagung der DVCS"
 
 Alle Veranstaltungen finden in der [Aula im Kollegiengebäude 1, Raum 1115, 1. OG](https://goo.gl/maps/mS5HyPcZSFzYew7U7) statt. Die Tagungssprache ist Deutsch, die Vorträge werden in deutscher oder englischer Sprache gehalten.
 
-Für Mitglieder der DVCS und Studierende bis zum Master oder gleichwertigem Abschluss ist die Teilnahme kostenfrei. Nichtmitglieder zahlen eine **Teilnahmegebühr in Höhe von 30 Euro**.
+Für Mitglieder der DVCS und Studierende bis zum Master oder gleichwertigem Abschluss ist die Teilnahme kostenfrei. Nichtmitglieder zahlen eine Teilnahmegebühr in Höhe von 30 Euro.
 
 Registrierung: [dvcs2021@sinologie.uni-freiburg.de](mailto:dvcs2021@sinologie.uni-freiburg.de)
 
@@ -86,11 +86,12 @@ Moderation: Lena Henningsen (Freiburg) und Daniel Leese (Freiburg)
 
 **9:00-11:00 Panel 5: Wissensvermittlung über China**
 
+- Stefanie Elbern (Heidelberg): *Mehr vom a/Anderen W/wissen*
+
 - Jonas Schmid (Heidelberg): *Anhaltender Eurozentrismus. Das alte China in aktuellen deutschen Schulgeschichtsbüchern*
 
 - Salome Foltin (Tübingen): *Konstruierte Wahrheit oder obligate Lüge. Die sinologische Lehre im globalen Spannungsfeld von Innovationspostulat und Eigeninteresse*
 
-- Stefanie Elbern (Heidelberg): *Mehr vom a/Anderen W/wissen*
 
 - Zhu Yi (Heidelberg): *Wie abhängig ist Deutschland von China? Mythen und Fakten*
 
