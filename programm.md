@@ -82,6 +82,8 @@ mit Marc Matten (Erlangen-Nürnberg), Maximilian Mayer (Bonn), Barbara Mittler (
 
 Moderation: Lena Henningsen (Freiburg) und Daniel Leese (Freiburg)
 
+Link zum Live Stream: [bitte hier klicken](https://uni-freiburg.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9668f599-9ebc-44f8-a472-addd00a91516)
+
 ## SAMSTAG, 20.11.2021
 
 **9:00-11:00 Panel 5: Wissensvermittlung über China**
@@ -106,6 +108,8 @@ vorgetragen von Fabian Heubel (Taipeh):
 >Friedrich A. von Hayek zitiert in seinem Text „The Principles of a Liberal Social Order“ (deutsch: „Grundsätze einer liberalen Gesellschaftsordnung“) Teile des Kapitels 57 aus dem daoistischen Klassiker Laozi 老子 (alternative Umschriften sind Laotse, Laotzu etc.; der Text ist auch unter dem Titel Daodejing oder Tao Te King 道德經 bekannt). Dass dieses Zitat in einem vor allem dem Begriff der „spontanen Ordnung“ gewidmeten Text auftaucht, eröffnet Fragen hinsichtlich des Verhältnisses von Liberalismus und Daoismus, denen ich mich in diesem Vortrag widmen möchte. Er besteht aus drei Teilen. Zunächst werde ich mich (1.) der von Hayek zitierten Übersetzung zuwenden und auf dem Wege eines Übersetzungskommentars versuchen, Zugang zu den Motiven des „Ohne-Tuns“ (wúwéi 無為), des „Selbstwandels“ (zìhuà 自化) und der „Selbstregierung“ (zìzhì 自治) zu finden; sodann werde ich (2.) in einem hermeneutischen Kommentar einige Deutungsansätze nachzeichnen, die sich dazu in der chinesischen Literatur finden; darauf aufbauend werde ich (3.) transkulturelle Korrespondenzen skizzieren, in denen ich versuche, die politische Bedeutung des daoistischen „Ohne-Tuns“ und der Idee „spontaner Ordnung“ im Kontext des diskursiven Kampfes zwischen „demokratischem Westen“ und „autoritärem China“ zu erkunden.
 
 Moderation: Daniel Leese (Freiburg)
+
+Link zum Live Stream: [bitte hier klicken](https://uni-freiburg.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f6c00975-8d6c-4672-90ec-addd00ab3f12)
 
 **Lunch**
 
@@ -138,7 +142,3 @@ Discussant: Amanda Shuman (Freiburg)
 Discussant: Roland Altenburger (Würzburg)
 
 **18:00-20:00 Im Anschluss: Mitgliederversammlung der DVCS**
-
-## SONNTAG, 21.11.2021
-
-**10:00 Stadtführung o.ä. (für registrierte Teilnehmer:innen)**
