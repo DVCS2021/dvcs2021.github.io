@@ -1,7 +1,7 @@
 # --- Required options --- #
 
 # Name of website
-title: DVCS XXXII, Freiburg 19-21.11
+title: DVCS XXXII, Freiburg 19-20.11
 
 # Your name to show in the footer
 author: Deutsche Vereinigung für Chinastudien 德語地區漢學協會
@@ -39,7 +39,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "dvcs2021@sinologie.uni-freiburg.de"
+  email: "dvcs.freiburg@gmail.com"
 #  facebook: deanattali
 #  github: daattali
 #  twitter: daattali

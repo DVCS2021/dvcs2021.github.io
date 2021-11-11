@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Call for Papers"
-subtitle: "Für die DVCS XXXII. Jahrestagung 2021 (Freiburg, 19.-21.11.2021)"
+subtitle: "Für die DVCS XXXII. Jahrestagung 2021 (Freiburg, 19.-20.11.2021)"
 ---
 
 ## Wissensasymmetrien: China als Akteur und Objekt (globaler) Debatten
@@ -26,7 +26,7 @@ Nicht zuletzt gelten die oben gestellten Fragen auch für die Rolle der Chinawis
 
 Eine kritische Selbstreflexion als Fach, zu welcher die DVCS auch in der Vergangenheit bereits mehrfach maßgeblich beigetragen hat, ist vor diesem Hintergrund zweifelsohne von Bedeutung. Daher planen wir in Ergänzung zum wissenschaftlichen Konferenzprogramm mit Panels und Keynote-Vorträgen auch eine öffentliche Podiumsdiskussion.
 
-Soweit es die pandemische Lage erlauben wird, planen wir, die Konferenz in einem traditionellen Format **in Freiburg zwischen dem 19. und 21. November 2021** abzuhalten. Eine endgültige Entscheidung hierzu wird im frühen Herbst getroffen. Wir freuen uns über Vorschläge für Beiträge und bitten um Zusendung von **Abstracts (ca. 300 Worte) und Kurzvita** an die Organisatoren (Lena Henningsen, Daniel Leese und Damian Mandzunowski) der Konferenz **bis zum 15. Juli 2021** an [DVCS2021@sinologie.uni-freiburg.de](mailto:DVCS2021@sinologie.uni-freiburg.de)
+Soweit es die pandemische Lage erlauben wird, planen wir, die Konferenz in einem traditionellen Format **in Freiburg am 19. und 20. November 2021** abzuhalten. Eine endgültige Entscheidung hierzu wird im frühen Herbst getroffen. Wir freuen uns über Vorschläge für Beiträge und bitten um Zusendung von **Abstracts (ca. 300 Worte) und Kurzvita** an die Organisatoren (Lena Henningsen, Daniel Leese und Damian Mandzunowski) der Konferenz **bis zum 15. Juli 2021** an [DVCS2021@sinologie.uni-freiburg.de](mailto:DVCS2021@sinologie.uni-freiburg.de)
 
 Die Entscheidung über die Annahme von Vorträgen erfolgt bis **zum 31. Juli 2021**.
 

@@ -26,6 +26,7 @@ Albert-Ludwigs-Universität Freiburg<br>
 Werthmannstr. 12, 79098 Freiburg<br>
 Tel. +49 761 203-67750<br>
 E-Mail: [DVCS2021@sinologie.uni-freiburg.de](mailto:DVCS2021@sinologie.uni-freiburg.de).
+E-Mail für die Live Stream Links: [dvcs.freiburg@gmail.com](mailto:dvcs.freiburg@gmail.com).
 
 ### Organisationskommittee
 
