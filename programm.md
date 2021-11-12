@@ -16,6 +16,10 @@ Registrierung: [dvcs2021@sinologie.uni-freiburg.de](mailto:dvcs2021@sinologie.un
 
 Poster herunterladen [als JPG](assets/img/dvcs2021_poster.jpg) oder [als PNG](assets/img/dvcs2021_poster.png)
 
+Alle Panels, die Keynote und die Podiumsdiskussion werden nun live über das von der Universität Freiburg installierte System Panopto übertragen. Wenn Sie dieses Angebot nutzen möchten, schreiben Sie bitte eine formlose Email an [dvcs.freiburg@gmail.com](mailto:dvcs.freiburg@gmail.com), dann erhalten Sie die Zugangsdaten für die Panelsitzungen. 
+
+Der Keynote-Vortrag und die Podiumsdiskussion sind öffentlich zugänglich und die entsprechenden Links finden sich direkt hier im Programm.
+
 ## FREITAG, 19.11.2021
 
 **Ab 8:30 Registrierung der Teilnehmer:innen**
