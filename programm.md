@@ -86,7 +86,7 @@ mit Marc Matten (Erlangen-Nürnberg), Maximilian Mayer (Bonn), Barbara Mittler (
 
 Moderation: Lena Henningsen (Freiburg) und Daniel Leese (Freiburg)
 
-Link zum Live Stream: [bitte hier klicken](https://uni-freiburg.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9668f599-9ebc-44f8-a472-addd00a91516)
+Link zum Livestream: [bitte hier klicken](https://uni-freiburg.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9668f599-9ebc-44f8-a472-addd00a91516)
 
 ## SAMSTAG, 20.11.2021
 
@@ -113,7 +113,7 @@ vorgetragen von Fabian Heubel (Taipeh):
 
 Moderation: Daniel Leese (Freiburg)
 
-Link zum Live Stream: [bitte hier klicken](https://uni-freiburg.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f6c00975-8d6c-4672-90ec-addd00ab3f12)
+Link zum Livestream: [bitte hier klicken](https://uni-freiburg.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f6c00975-8d6c-4672-90ec-addd00ab3f12)
 
 **Lunch**
 
