@@ -16,7 +16,7 @@ Registrierung: [dvcs2021@sinologie.uni-freiburg.de](mailto:dvcs2021@sinologie.un
 
 Poster herunterladen [als JPG](assets/img/dvcs2021_poster.jpg) oder [als PNG](assets/img/dvcs2021_poster.png)
 
-Alle Panels, die Keynote und die Podiumsdiskussion werden nun live über das von der Universität Freiburg installierte System Panopto übertragen. Wenn Sie dieses Angebot nutzen möchten, schreiben Sie bitte eine formlose Email an [dvcs.freiburg@gmail.com](mailto:dvcs.freiburg@gmail.com), dann erhalten Sie die Zugangsdaten für die Panelsitzungen. 
+Alle Panels, die Keynote und die Podiumsdiskussion werden nun live über das von der Universität Freiburg installierte System Panopto übertragen. Wenn Sie dieses Angebot nutzen möchten, schreiben Sie bitte eine formlose Email an [dvcs.freiburg@gmail.com](mailto:dvcs.freiburg@gmail.com), dann erhalten Sie die Zugangsdaten für die Panelsitzungen.
 
 Der Keynote-Vortrag und die Podiumsdiskussion sind öffentlich zugänglich und die entsprechenden Links finden sich direkt hier im Programm.
 
@@ -92,7 +92,7 @@ Link zum Livestream: [bitte hier klicken](https://uni-freiburg.cloud.panopto.eu/
 
 **9:00-11:00 Panel 5: Wissensvermittlung über China**
 
-- Stefanie Elbern (Heidelberg): *Mehr vom a/Anderen W/wissen*
+- Stefanie Elbern und Barbara Mittler (Heidelberg): *China im schulischen Fachunterricht: Curricula, Schulbücher und Kompetenzen*
 
 - Jonas Schmid (Heidelberg): *Anhaltender Eurozentrismus. Das alte China in aktuellen deutschen Schulgeschichtsbüchern*
 
